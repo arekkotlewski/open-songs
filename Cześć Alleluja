@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Cześć Alleluja</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V3 V4 V1</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+ /Cześć, alleluja Panu bądź / x2
+ /Cześć, alleluja / x2
+ Cześć, alleluja Panu bądź!
+[v2]
+ /Jezus zmartwychwstał, chwała Mu / x2
+ /Jezus zmartwychwstał/ x2
+ Jezus zmartwychwstał, chwała Mu!
+[v3]
+ /Jezus powróci wkrótce znów! / x2
+ /Jezus powróci/ x2
+ Jezus powróci wkrótce znów!
+[v4]
+ /Jezus wciąż żyje w sercu mym! / x2
+ /Jezus wciąż żyje / x2
+ Jezus wciąż żyje w sercu mym!</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Niech przyjmie chwałę i cześć</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V2</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+ /Niech przyjmie chwałę i cześć siedzący na tronie,
+ błogosławieństwo i moc niech weźmie Baranek. /x2
+[v2]
+ /Od wieków na wieki niech płynie Królowi pieśń chwały!/ x2
+[v3]
+ Niech przyjmie chwałę i cześć siedzący na tronie,
+ błogosławieństwo i moc niech weźmie Baranek.</lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>

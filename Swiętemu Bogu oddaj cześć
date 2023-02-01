@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Świętemu Bogu oddaj cześć</title>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 V1 V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[v1]
+ /Świętemu Bogu oddaj cześć,
+ Dziękczynną z serca śpiewaj pieśń,
+ Jezusa, Syna Swego, Bóg darował nam /x2
+[v2]
+ /W Nim słaby mocnym staje się,
+ Biedny niechaj wyzna, że bogatym jest,
+ Gdyż wszystko dał nam Bóg /x2
+[v3]
+ /W Nim słaby mocnym staje się,
+ Biedny niechaj wyzna, że bogatym jest,
+ Gdyż wszystko dał nam Bóg /x2
+ Dał Bóg 
+ </lyrics>
+  <linked_songs/>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
